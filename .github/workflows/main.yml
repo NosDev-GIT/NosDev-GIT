@@ -1,9 +1,9 @@
-# Generates a daily snek animation 🐍 for the readme (Thanks to https://platane.me/snk)
+# Generates a daily snake animation 🐍 for the readme (Thanks to https://platane.me/snk)
 name: snek
 
 on:
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 */24 * * *" # chạy mỗi 24 tiếng
 
   workflow_dispatch:
 
@@ -22,7 +22,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: NosDev-GIT
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
