@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  schedule: # chạy định kỳ mỗi 6 tiếng
-    - cron: "*/6 * * * *"
-  workflow_dispatch: # Cho phép chạy thủ công từ trang Actions
+  schedule:
+    - cron: "0 */6 * * *"  # Mỗi 6 tiếng
+  workflow_dispatch: 
 
 jobs:
   build:
