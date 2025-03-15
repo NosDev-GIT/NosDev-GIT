@@ -1,0 +1,23 @@
+# 👋 Xin chào, tôi là NosDev-GIT!
+
+## 🚀 Về tôi
+- 🔧 Tôi là một lập trình viên đam mê phát triển ứng dụng và game.
+- 🎮 Quan tâm đặc biệt đến lập trình phần mềm, tối ưu hóa hiệu suất và phát triển firmware tùy chỉnh.
+
+## 🤝 Tôi đang tìm cơ hội hợp tác về
+- 🕹️ Phát triển ứng dụng, game, hoặc phần mềm tối ưu cho thiết bị cũ.
+- 🛠️ Lập trình hệ thống và firmware cho các thiết bị nhúng.
+- 🎨 Thiết kế và xây dựng giao diện tối ưu cho ứng dụng WebView.
+
+## 📫 Liên hệ với tôi
+- 🐙 GitHub: [NosDev-GIT](https://github.com/NosDev-GIT)
+- 📧 Email: nhb0985@gmail.com
+- 💬 Twitter: HBach_official 
+
+## 🔥 Một số điều thú vị
+- ⚡ Thích tìm cách tối ưu hiệu suất trên phần cứng cũ.
+- 🎵 Quan tâm đến công nghệ âm thanh và thiết bị điện tử.
+- 🏎️ Từng thử ép xung phần cứng để xem hiệu suất có thể đạt đến đâu. 😆
+- v.v.....
+
+📌 **PS:** Nếu có góp ý hoặc muốn hợp tác, đừng ngại mở một Issue hoặc Pull Request! 😄
