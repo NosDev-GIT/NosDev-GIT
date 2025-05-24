@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&width=435&lines=%F0%9F%91%8B+Xin+Ch%C3%A0o!+%F0%9F%92%BB;%F0%9F%91%8B+Hello!+%F0%9F%92%BB;I'm+**HBach+(NosDev-GIT)!**+%F0%9F%93%8C)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&width=435&lines=%F0%9F%91%8B+Xin+Ch%C3%A0o!+%F0%9F%92%BB;%F0%9F%91%8B+Hello!+%F0%9F%92%BB;I'm+HBach+%F0%9F%93%8C);" />
 # 👋 Xin chào, tôi là **HBach (NosDev-GIT)!**  
 ## 🚀 Về tôi
 - 🔧 Tôi là một lập trình viên đam mê phát triển ứng dụng và game.  
