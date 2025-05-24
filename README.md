@@ -13,7 +13,7 @@
 ![C](https://img.shields.io/badge/C-%23044F88.svg?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23FFDE57.svg?style=flat-square&logo=python&logoColor=%23ffde57,%234584b6,%23646464)
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 2px"></div>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="14" alt="Visual Studio Code" style="margin-right: 4px"></div>
 
 ## 🤝 Tôi đang tìm cơ hội hợp tác về
 - 🕹️ Phát triển ứng dụng, game và phần mềm tối ưu cho thiết bị cũ.  
