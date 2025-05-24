@@ -1,5 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&width=435&lines=%F0%9F%91%8B+Xin+Ch%C3%A0o!+%F0%9F%92%BB;%F0%9F%91%8B+Hello!+%F0%9F%92%BB;I'm+**HBach+(NosDev-GIT)!**+%F0%9F%93%8C)](https://git.io/typing-svg)
 # 👋 Xin chào, tôi là **HBach (NosDev-GIT)!**  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&width=435&lines=%E2%AD%90+Xin+Ch%C3%A0o!+%F0%9F%92%BB;%E2%AD%90Hello!+%F0%9F%92%BB;I'm+HBach.%F0%9F%93%8C)](https://git.io/typing-svg)
 ## 🚀 Về tôi
 - 🔧 Tôi là một lập trình viên đam mê phát triển ứng dụng và game.  
 - 🎮 Quan tâm đặc biệt đến lập trình phần mềm, tối ưu hóa hiệu suất và phát triển firmware tùy chỉnh.  
