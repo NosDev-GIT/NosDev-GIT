@@ -3,7 +3,12 @@
 ## 🚀 Về tôi
 - 🔧 Tôi là một lập trình viên đam mê phát triển ứng dụng và game.  
 - 🎮 Quan tâm đặc biệt đến lập trình phần mềm, tối ưu hóa hiệu suất và phát triển firmware tùy chỉnh.  
-
+### 🛠 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-%23044F88.svg?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-%23FFDE57.svg?style=flat-square&logo=python&logoColor=%23ffde57,%234584b6,%23646464)
 ## 🤝 Tôi đang tìm cơ hội hợp tác về
 - 🕹️ Phát triển ứng dụng, game và phần mềm tối ưu cho thiết bị cũ.  
 - 🛠️ Lập trình hệ thống, tối ưu hiệu suất và phát triển firmware.  
