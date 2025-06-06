@@ -29,10 +29,7 @@
 ## 📫 Liên hệ với tôi
 - 🐙 **GitHub:** [NosDev-GIT](https://github.com/NosDev-GIT)  
 - 📧 **Email:** nhb0985@gmail.com  
-  <br>
-  <a href="mailto:nhb0985@gmail.com">
-    <img src="https://img.shields.io/badge/Gửi%20Email-Contact-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Gửi Email">
-  </a>
+  <br href="mailto:nhb0985@gmail.com">
 - 💬 **Twitter:** [HBach_official](https://twitter.com/HBach_official)
 
 ## 🔥 Một số điều thú vị
