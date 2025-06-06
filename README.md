@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://i.imgur.com/XSgpcs0.gif" width="240" alt="HBach Profile GIF"/>
-
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&letterSpacing=0.5px&duration=4000&pause=1000&color=00FFC6&center=true&vCenter=true&multiline=true&width=600&lines=%F0%9F%91%8B+Xin+Ch%C3%A0o!+%F0%9F%92%BB;I'm+**HBach+(NosDev)!**+%F0%9F%93%8C)](https://git.io/typing-svg)
 
+<img src="https://i.imgur.com/XSgpcs0.gif" width="240" alt="HBach Profile GIF"/>
 </div>
 
 ## 🚀 Về tôi
