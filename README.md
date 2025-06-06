@@ -28,8 +28,7 @@
 
 ## 📫 Liên hệ với tôi
 - 🐙 **GitHub:** [NosDev-GIT](https://github.com/NosDev-GIT)  
-- 📧 **Email:** nhb0985@gmail.com  
-  <br href="mailto:nhb0985@gmail.com">
+- 📧 **Email:** <a href="mailto:nhb0985@gmail.com">nhb0985@gmail.com</a>  
 - 💬 **Twitter:** [HBach_official](https://twitter.com/HBach_official)
 
 ## 🔥 Một số điều thú vị
