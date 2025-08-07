@@ -11,11 +11,13 @@
 - 🎮 Quan tâm đặc biệt đến lập trình phần mềm, tối ưu hóa hiệu suất và phát triển phần mềm tùy chỉnh.  
 
 ### 🛠 Kỹ Năng
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/C-%23044F88.svg?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23FFDE57.svg?style=flat-square&logo=python&logoColor=%23ffde57,%234584b6,%23646464)
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="20" alt="Visual Studio Code" style="margin-right: 4px">
+![VBScript](https://img.shields.io/badge/VBScript-lightgrey?style=flat-square)
+![Batch](https://img.shields.io/badge/Batch%20Script-000000?style=flat-square)
+![WebView2](https://img.shields.io/badge/WebView2-20c997?style=flat-square)
+![API](https://img.shields.io/badge/API%20Integration-brightgreen?style=flat-square)
 
 ## 🤝 Tôi đang tìm cơ hội hợp tác về
 - 🕹️ Phát triển ứng dụng, game và phần mềm tối ưu cho thiết bị cũ.  
